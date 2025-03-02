@@ -18,6 +18,21 @@
 
 ---
 
+<h3 align="left">🚀 Coding Profiles:</h3>
+<p align="left">
+<a href="https://www.geeksforgeeks.org/user/shiwangkaimyy/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+</a>
+<a href="https://leetcode.com/u/Shiwang123_4/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
+</a>
+<a href="https://www.codechef.com/users/shiwangkashyap" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/7b/Codechef%28new%29_logo.svg" alt="CodeChef" height="40" width="40" />
+</a>
+</p>
+
+---
+
 <h3 align="left">💼 Experience:</h3>
 
 - **Data Analyst Intern at KPMG** *(Oct 2023 - Dec 2023)*
