@@ -1,4 +1,4 @@
-![logo](https://github.com/890shiwang/890shiwang/blob/main/GITHUB%20BANNER.png)
+![logo](https://www.linkedin.com/in/shiwang16/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Shiwang Kashyap</h1>
 <h3 align="center">Software Developer | Data Analyst | AI Enthusiast</h3>
