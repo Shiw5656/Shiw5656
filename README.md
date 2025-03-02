@@ -1,4 +1,4 @@
-![logo](https://www.linkedin.com/in/shiwang16/overlay/background-image/)
+![logo](https://github.com/Shiw5656/Shiw5656/blob/main/1702400192493.jpg)
 
 <h1 align="center">Hi 👋, I'm Shiwang Kashyap</h1>
 <h3 align="center">Software Developer | Data Analyst | AI Enthusiast</h3>
